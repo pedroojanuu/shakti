@@ -6,7 +6,7 @@ O jogo de tabuleiro implementado no trabalho prático a que este documento diz r
 
 O identificador do grupo é _Shakti\_4_ e o mesmo é composto pelos seguintes estudantes, sendo apresentada, para cada um, a sua contribuição no desenvolvimento do trabalho:
 
-- Pedro de Almeida Lima, nº mecanográfico 202108806, contribuição de 50%
+- Pedro de Almeida Lima, nº mecanográfico 202108806, [pedro_lima no GitHub](https://github.com/up202108806), contribuição de 50%
 - Pedro Simão Januário Vieira, nº mecanográfico 202108768, contribuição de 50%
 
 ## Instalação e Execução
